@@ -48,3 +48,7 @@ flowchart LR
     IDX2 --> Q
     Q --> A[Ответ с источником]
 ```
+
+## Архитектура
+
+Подробная схема проекта: [ARCHITECTURE.md](ARCHITECTURE.md)
